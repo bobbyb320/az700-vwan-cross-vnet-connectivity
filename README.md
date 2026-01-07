@@ -1,4 +1,4 @@
-
+Traget Role: Azure Network Engineer
 # AZ-700 — Design and Implement Cross-VNet Connectivity Using Azure Virtual WAN (vWAN)
 
 ## Overview
