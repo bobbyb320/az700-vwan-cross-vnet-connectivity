@@ -1,5 +1,4 @@
-# az700-vwan-cross-vnet-connectivity
-AZ-700 vWAN cross-VNet connectivity (multi-hub, effective routes, portal + CLI validation)
+
 # AZ-700 — Design and Implement Cross-VNet Connectivity Using Azure Virtual WAN (vWAN)
 
 ## Overview
@@ -210,25 +209,8 @@ CLI confirms:
 
 ---
 
-## Outcome
-
-By completing this lab, we have:
-
-- Built a multi-region Azure Virtual WAN
-- Connected multiple VNets without peering
-- Enabled hub-to-hub routing
-- Validated routing using Effective Routes
-- Demonstrated enterprise-grade Azure network design
 
 ---
 
-## Why This Lab Matters for Hiring
-
-This lab proves the ability to:
-- Design scalable Azure network architectures
-- Understand routing behavior, not just deployment
-- Apply IP planning and validation
-- Troubleshoot using both Portal and CLI
-- Work at **Azure Network Engineer / AZ-700 level**
 
 ---
